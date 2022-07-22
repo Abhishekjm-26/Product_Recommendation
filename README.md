@@ -1,2 +1,2 @@
 # Product_Recommendation
-The application will provide reviews given by the users and showcase positive and negative reviews using WordCloud, to create a recommendation system that recommends products to users based on reviews/ratings.
+A project under the University of vtu to provide reviews given by the users for the product in flipkart and showcase positive and negative reviews using WordCloud, and also to provides recommendation to users based on reviews/ratings
